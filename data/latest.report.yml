@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.0.0"
   latestRelease: "v3.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:42:00Z
+  collectedAt: 2026-09-10T17:27:40Z
 timeline:
   created: 2015-11-18
   lastCommit: 2023-08-07
@@ -83,7 +83,7 @@ total:
   commit: 16
 ---
 path: /home/runner/.x-repo/github.com/sindresorhus/strip-json-comments-cli
-collectedAt: 2026-09-10T05:42:00Z
+collectedAt: 2026-09-10T17:27:41Z
 loc:
   Json:
     code: 54
